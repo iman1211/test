@@ -1,2 +1,2 @@
-Tambahan update terbaru
+update terbaru
 Test update file
